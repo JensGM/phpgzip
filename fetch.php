@@ -13,3 +13,4 @@ header("File-Name: ".$filename);
 readfile($filename);
 
 die;
+?>
